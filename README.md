@@ -1,4 +1,4 @@
-# My Data Science Portfolio Website
+# My Data Portfolio Website
 
 This repository contains the source code for my professional data science portfolio, hosted on GitHub Pages.
 
