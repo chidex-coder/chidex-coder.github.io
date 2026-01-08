@@ -1,27 +1,27 @@
 ---
 layout: default
-title: Home
+title: Data Portfolio
 ---
 
 # Hi, I'm Chiagoziem Cyriacus Ugoh 👋
 
-I'm a data professional passionate about transforming data into actionable insights. With expertise in machine learning, analytics, and data visualization and web applications, I help organizations make data-driven decisions.
+I'm a data professional passionate about transforming data into actionable insights. With expertise in basic ETL pipelines (Extract, Transform, Load), machine learning, analytics, and data visualization and web applications, I help organizations make data-driven decisions.
 
 ## Featured Projects
 
-### [Customer Churn Prediction](https://github.com/username/churn-prediction)
-*Built a machine learning model to predict customer churn with 89% accuracy, helping reduce customer loss by 15%.*
+### [Big Data Processing (Sales Revenue Predictions)](https://www.kaggle.com/code/chiagoziemcugoh/big-data-processing-sales-revenue-predictions)
+*Built a machine learning model to predict sales revenue with good accuracy, helping businesses in strategic planning.*
 
-**Tools:** Python, Scikit-learn, XGBoost, Pandas  
-**Impact:** Reduced churn rate by 15%  
-[View Project →](https://github.com/username/churn-prediction)
+**Tools:** Spark, SQL, Python, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, GBTClassifier
+**Impact:** Helped businesses in strategic planning.
+[View Project →](https://www.kaggle.com/code/chiagoziemcugoh/big-data-processing-sales-revenue-predictions)
 
-### [Retail Sales Forecasting](https://github.com/username/sales-forecast)
-*Developed time series forecasting models for inventory optimization across 50+ stores.*
+### [Global Health Analytics](https://github.com/chidex-coder/Global-Health-Analytics/blob/main/HEALTH%20ETL%20PIPELINE1.ipynb)
+*Built a web application that helps medical professionals for easy diagnosis of patients.*
 
-**Tools:** R, Prophet, ARIMA, Tableau  
-**Impact:** Improved forecast accuracy by 23%  
-[View Project →](https://github.com/username/sales-forecast)
+**Tools:** SQL, Python, Scikit-learn, Pandas, ETL, Streamlit
+**Impact:** Helped medical professionals for easy diagnosis of patients.
+[View Project →]([https://github.com/username/sales-forecast](https://github.com/chidex-coder/Global-Health-Analytics/blob/main/HEALTH%20ETL%20PIPELINE1.ipynb))
 
 ## Technical Skills
 
@@ -41,4 +41,4 @@ I'm a data professional passionate about transforming data into actionable insig
 
 ---
 
-*Last updated: 2025*
+*Last updated: 2026*
