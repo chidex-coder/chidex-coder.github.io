@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Chiagoziem Cyriacus Ugoh 👋
 
-I'm a data scientist passionate about transforming data into actionable insights. With expertise in machine learning, statistical modeling, and data visualization, I help organizations make data-driven decisions.
+I'm a data professional passionate about transforming data into actionable insights. With expertise in machine learning, analytics, and data visualization and web applications, I help organizations make data-driven decisions.
 
 ## Featured Projects
 
@@ -25,17 +25,17 @@ I'm a data scientist passionate about transforming data into actionable insights
 
 ## Technical Skills
 
-- **Languages:** Python, R, SQL
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, XGBoost
+- **Languages:** Python, SQL
+- **Machine Learning:** Scikit-learn, XGBoost
 - **Visualization:** Matplotlib, Seaborn, Plotly, Tableau
-- **Cloud & Big Data:** AWS, Google Cloud, Spark
-- **Tools:** Git, Docker, Jupyter
+- **Cloud & Big Data:** Spark
+- **Tools:** Jupyter, Vs-Code
 
 ## Contact
 
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/username)
+- 📧 [chidexmailbox@gmail.com](mailto:chidexmailbox@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chiagoziem-cyriacus-ugoh-078121182/)
+- 🐙 [GitHub](https://github.com/chidex-coder)
 
 ---
 
