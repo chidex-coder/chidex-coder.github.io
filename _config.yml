@@ -1,16 +1,16 @@
 # Site settings
-title: "Your Name - Data Scientist"
-description: "Data science portfolio showcasing machine learning projects and analysis"
-author: "Your Name"
-email: "your.email@example.com"
+title: "Chiagoziem Cyriacus Ugoh - Data Professional"
+description: "Data Analytics/Science portfolio showcasing machine learning projects and analysis"
+author: "Chiagoziem Cyriacus Ugoh"
+email: "chidexmailbox@gmail.com"
 
 # Theme
 theme: jekyll-theme-minimal
 
 # Social links
-github_username: your_username
-linkedin_username: your-name
-# twitter_username: your_handle
+github_username: https://github.com/chidex-coder
+linkedin_username: https://www.linkedin.com/in/chiagoziem-cyriacus-ugoh-078121182/
+kaggle_username: https://www.kaggle.com/chiagoziemcugoh/code
 
 # Enable GitHub Pages
 plugins:
