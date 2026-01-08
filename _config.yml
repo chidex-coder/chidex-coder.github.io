@@ -1,0 +1,21 @@
+# Site settings
+title: "Your Name - Data Scientist"
+description: "Data science portfolio showcasing machine learning projects and analysis"
+author: "Your Name"
+email: "your.email@example.com"
+
+# Theme
+theme: jekyll-theme-minimal
+
+# Social links
+github_username: your_username
+linkedin_username: your-name
+# twitter_username: your_handle
+
+# Enable GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Analytics (optional)
+# google_analytics: G-XXXXXXXXXX
