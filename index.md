@@ -23,6 +23,14 @@ I'm a data professional passionate about transforming data into actionable insig
 **Impact:** Helped medical professionals for easy diagnosis of patients.
 [View Project →](https://github.com/chidex-coder/Global-Health-Analytics/blob/main/HEALTH%20ETL%20PIPELINE1.ipynb)
 
+## Featured Web Applications
+
+[Global Health Analytics →](https://global-health-analytics-hzpmji3zqfqwucxw3lt8st.streamlit.app)
+
+[Advanced Emissions & Renewables Analytics →](https://co2-emissions-and-renewable-energy.onrender.com)
+
+[Kidney Risk Assessment →](https://chiagoziem-s-kidney-disease-risk-assessment-app-22t2pmskrkewep.streamlit.app)
+
 ## Technical Skills
 
 - **Languages:** Python, SQL
