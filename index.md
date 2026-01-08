@@ -21,7 +21,7 @@ I'm a data professional passionate about transforming data into actionable insig
 
 **Tools:** SQL, Python, Scikit-learn, Pandas, ETL, Streamlit
 **Impact:** Helped medical professionals for easy diagnosis of patients.
-[View Project →]([https://github.com/username/sales-forecast](https://github.com/chidex-coder/Global-Health-Analytics/blob/main/HEALTH%20ETL%20PIPELINE1.ipynb))
+[View Project →](https://github.com/chidex-coder/Global-Health-Analytics/blob/main/HEALTH%20ETL%20PIPELINE1.ipynb)
 
 ## Technical Skills
 
