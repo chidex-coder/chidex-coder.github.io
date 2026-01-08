@@ -28,7 +28,7 @@ I'm a data professional passionate about transforming data into actionable insig
 - **Languages:** Python, SQL
 - **Machine Learning:** Scikit-learn, XGBoost
 - **Visualization:** Matplotlib, Seaborn, Plotly, Tableau
-- **Cloud & Big Data:** Spark
+- **Cloud & Big Data:** Google Cloud, Spark
 - **Tools:** Jupyter, Vs-Code
 
 ## Contact
