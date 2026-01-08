@@ -23,4 +23,4 @@ This repository contains the source code for my professional data science portfo
 - `_config.yml` - Site configuration
 - `index.md` - Homepage content
 - `projects/` - Project details page
-- `assets/` - Images and static files
+- `images/` - Images and static files
