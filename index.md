@@ -37,6 +37,7 @@ I'm a data professional passionate about transforming data into actionable insig
 - 📧 [chidexmailbox@gmail.com](mailto:chidexmailbox@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chiagoziem-cyriacus-ugoh-078121182/)
 - 🐙 [GitHub](https://github.com/chidex-coder)
+- 📊 [Kaggle](https://www.kaggle.com/chiagoziemcugoh/code)
 
 ---
 
