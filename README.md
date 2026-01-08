@@ -4,7 +4,7 @@ This repository contains the source code for my professional data science portfo
 
 ## Live Site
 
-** [View Portfolio](https://username.github.io) **
+** [View Portfolio](https://chidex-coder.github.io) **
 
 ## Technologies Used
 
