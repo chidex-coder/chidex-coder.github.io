@@ -7,7 +7,7 @@ title: Data Portfolio
 
 # Hi, I'm Chiagoziem Cyriacus Ugoh 👋
 
-I'm a data professional passionate about transforming data into actionable insights. With expertise in basic ETL pipelines (Extract, Transform, Load), machine learning, analytics, and data visualization and web applications, I help organizations make data-driven decisions.
+I'm a data professional passionate about transforming data into actionable insights. With expertise in basic ETL pipelines (Extract, Transform, Load), machine learning, analytics, data visualization and web applications, I help organizations make data-driven decisions.
 
 ## Featured Projects
 
