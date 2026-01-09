@@ -3,7 +3,7 @@ layout: default
 title: Data Portfolio
 ---
 
-![Profile Photo](/images/IMG_9880 2.jpeg){: width="200px" .profile-pic }
+![Profile Photo](/images/IMG_9880 2.jpg){: width="200px" .profile-pic }
 
 # Hi, I'm Chiagoziem Cyriacus Ugoh 👋
 
