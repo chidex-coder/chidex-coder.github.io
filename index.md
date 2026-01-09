@@ -45,6 +45,7 @@ I'm a data professional passionate about transforming data into actionable insig
 ## Contact
 
 - 📧 [chidexmailbox@gmail.com](mailto:chidexmailbox@gmail.com)
+- 🔽 [Download CV](/images/C.V.pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chiagoziem-cyriacus-ugoh-078121182/)
 - 🐙 [GitHub](https://github.com/chidex-coder)
 - 📊 [Kaggle](https://www.kaggle.com/chiagoziemcugoh/code)
