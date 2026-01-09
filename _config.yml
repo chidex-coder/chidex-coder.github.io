@@ -1,3 +1,15 @@
+# Custom CSS
+head_scripts:
+  - >
+    <style>
+      .profile-pic {
+        border-radius: 50%;
+        display: block;
+        margin: 0 auto 2rem;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      }
+    </style>
+
 # Site settings
 title: "Chiagoziem Cyriacus Ugoh - Data Professional"
 description: "Data Analytics/Science portfolio showcasing machine learning projects and analysis"
@@ -16,18 +28,6 @@ kaggle_username: https://www.kaggle.com/chiagoziemcugoh/code
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Custom CSS
-head_scripts:
-  - >
-    <style>
-      .profile-pic {
-        border-radius: 50%;
-        display: block;
-        margin: 0 auto 2rem;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      }
-    </style>
 
 # Analytics (optional)
 # google_analytics: G-XXXXXXXXXX
