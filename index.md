@@ -48,7 +48,8 @@ I'm a data professional passionate about transforming data into actionable insig
 - 🔽 [Download CV](/images/C.V.pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chiagoziem-cyriacus-ugoh-078121182/)
 - 🐙 [GitHub](https://github.com/chidex-coder)
-- 📊 [Kaggle](https://www.kaggle.com/chiagoziemcugoh/code)
+- 🔍 [Kaggle](https://www.kaggle.com/chiagoziemcugoh/code)
+- 📊 [Tableau](https://public.tableau.com/app/profile/chiagoziem.cyriacus.ugoh/vizzes)
 
 ---
 
