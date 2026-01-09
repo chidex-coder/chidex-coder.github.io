@@ -3,6 +3,8 @@ layout: default
 title: Data Portfolio
 ---
 
+![Profile Photo](/images/IMG_9880 2.jpeg){: width="200px" .profile-pic }
+
 # Hi, I'm Chiagoziem Cyriacus Ugoh 👋
 
 I'm a data professional passionate about transforming data into actionable insights. With expertise in basic ETL pipelines (Extract, Transform, Load), machine learning, analytics, and data visualization and web applications, I help organizations make data-driven decisions.
