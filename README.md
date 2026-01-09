@@ -1,6 +1,6 @@
 # My Data Portfolio Website
 
-This repository contains the source code for my professional data science portfolio, hosted on GitHub Pages.
+This repository contains the source code for my professional data portfolio, hosted on GitHub Pages.
 
 ## Live Site
 
